@@ -1,0 +1,6 @@
+[submodule "dataset"]
+	path = dataset
+	url = https://github.com/ArcGate-Shubham/new_app_data.git
+[submodule "datavalue"]
+	path = datavalue
+	url = https://github.com/ArcGate-Shubham/Quiz-App.git
